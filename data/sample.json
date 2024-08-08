@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "a0a1",
+      "name": "rajesh",
+      "age": "23",
+      "city": "salem"
+    },
+    {
+      "id": "3b58",
+      "name": "viswa",
+      "age": "23",
+      "city": "trichy"
+    },
+    {
+      "id": "28ba",
+      "name": "goutham",
+      "age": "23",
+      "city": "erode"
+    },
+    {
+      "id": "beb9",
+      "name": "sanjay",
+      "age": "23",
+      "city": "chennai"
+    },
+    {
+      "id": "a05d",
+      "name": "bharath",
+      "age": "24",
+      "city": "madurai"
+    }
+  ]
+}
