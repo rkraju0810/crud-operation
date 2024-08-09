@@ -205,7 +205,7 @@ const App = () => {
         </div>
         {isModelOpen && (
           <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-            <div className="bg-white p-6 rounded-md shadow-md w-1/2">
+            <div className="bg-white p-6 rounded-md shadow-md w-1/2 relative">
               <span
                 className="absolute top-2 right-2 text-2xl cursor-pointer"
                 onClick={() => setIsModelOpen(false)}
